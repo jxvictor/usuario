@@ -1,0 +1,3 @@
+- Implementado
+  - CRUD de Usuário
+    - Economizar tempo em futuros projetos.
